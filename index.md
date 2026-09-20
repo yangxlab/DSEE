@@ -1,3 +1,7 @@
+---
+title: Home
+---
+
 <div align="left">
 
 # Toward Semantically Enhanced Representation Learning for Text-Based Person Retrieval (TIP 2026)
